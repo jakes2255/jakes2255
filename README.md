@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 #### 3D rendering of my GitHub Contributions
 
-![](https://github.com/jakes2255/jakes2255/blob/main/jakes2255GitHubSkyline.gif)
+![](https://github.com/jakes2255/jakes2255/blob/main/GitHubContributionUsingSkyline.gif)
