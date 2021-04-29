@@ -3,6 +3,7 @@
 <!--
 **jakes2255/jakes2255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### 3D rendering of my GitHub Contributions
+
+![](https://github.com/jakes2255/jakes2255/blob/main/jakes2255GitHubSkyline.gif)
