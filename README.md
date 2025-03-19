@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 3D rendering of my GitHub Contributions
-
-![](https://github.com/jakes2255/jakes2255/blob/main/GitHubContributionUsingSkyline.gif)
