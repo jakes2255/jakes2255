@@ -1,8 +1,8 @@
 <!-- ## Hey everyone, I'm 'Jakes2255', aka Arun Jacob 👋-->
 
-# 👋 Hello World! I'm a Code-Crafter from Bangalore 🇮🇳
+# 👋Building Enterprise Apps with Clean Code & UX Excellence
 
-🧑‍💻 I'm a Software Engineer with nearly **two decades** of hands-on experience (yes, I started coding when flip phones were cool). Since **2005**, I’ve been building, leading, and shaping enterprise applications across India and the UK — solving real-world problems with scalable code and a client-first mindset.
+🧑‍💻 Software Engineer with 20+ years of experience in designing and delivering enterprise applications across India and the UK. Passionate about scalable architectures, clean code, and user-centric solutions.
 
 ## 💼 What I Do (a.k.a My Superpowers):
 - 🧠 **SAP Fiori & SAPUI5 Specialist** — because I believe great UI makes business processes less boring 😄  
