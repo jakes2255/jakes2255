@@ -11,22 +11,22 @@ using SAP BTP, S/4HANA, and modern UI paradigms.
 
 ## Focus Areas
 
--   SAP BTP & CAP-based Side-by-Side Extensions\
--   S/4HANA (On-Prem & Cloud) Architecture\
--   RAP & Fiori Elements (Metadata-Driven UX)\
--   Launchpad Governance & Security Segregation\
--   OData & API-First Integration Strategies\
--   Hybrid Landscape Design (On-Prem ↔ Cloud)\
+-   SAP BTP & CAP-based Side-by-Side Extensions
+-   S/4HANA (On-Prem & Cloud) Architecture
+-   RAP & Fiori Elements (Metadata-Driven UX)
+-   Launchpad Governance & Security Segregation
+-   OData & API-First Integration Strategies
+-   Hybrid Landscape Design (On-Prem ↔ Cloud)
 -   CI/CD & DevOps for Enterprise SAP
 
 ------------------------------------------------------------------------
 
 ## Architectural Philosophy
 
--   Keep the core clean\
--   Push innovation to the cloud\
--   Separate build from exposure\
--   Design for upgrade safety\
+-   Keep the core clean
+-   Push innovation to the cloud
+-   Separate build from exposure
+-   Design for upgrade safety
 -   Make UX intentional, not incidental
 
 I focus on maintainability, extensibility, and governance --- not just
@@ -36,10 +36,10 @@ delivery.
 
 ## Roles Delivered
 
--   Solution Architect\
--   SAP Technical Lead\
--   BTP Extension Architect\
--   Enterprise UI Strategy Lead\
+-   Solution Architect
+-   SAP Technical Lead
+-   BTP Extension Architect
+-   Enterprise UI Strategy Lead
 -   Cross-functional Delivery Owner
 
 I operate at the intersection of architecture, development, and platform
@@ -51,10 +51,10 @@ governance.
 
 This GitHub profile reflects:
 
--   CAP-based service design\
--   Metadata-driven Fiori Elements modeling\
--   UI annotation strategies\
--   Clean-code patterns in enterprise SAP\
+-   CAP-based service design
+-   Metadata-driven Fiori Elements modeling
+-   UI annotation strategies
+-   Clean-code patterns in enterprise SAP
 -   Hybrid architecture experiments
 
 Each repository represents a deliberate architectural pattern --- not
@@ -66,9 +66,9 @@ just sample code.
 
 I am actively deepening expertise in:
 
--   Advanced RAP patterns\
--   Event-driven extensibility\
--   Enterprise-grade BTP transport strategy\
+-   Advanced RAP patterns
+-   Event-driven extensibility
+-   Enterprise-grade BTP transport strategy
 -   Secure multi-landscape deployment models
 
 ------------------------------------------------------------------------
