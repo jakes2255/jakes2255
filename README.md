@@ -1,47 +1,84 @@
-<!-- ## Hey everyone, I'm 'Jakes2255', aka Arun Jacob 👋-->
+# Enterprise SAP Architect \| Clean-Core Advocate \| Cloud-First Thinker
 
-# 👋Building Enterprise Apps with Clean Code & UX Excellence
+With 20+ years of experience across India and the UK, I design and lead
+enterprise-grade SAP solutions that align business strategy with
+scalable, cloud-ready architectures.
 
-🧑‍💻 Software Engineer with 20+ years of experience in designing and delivering enterprise applications across India and the UK. Passionate about scalable architectures, clean code, and user-centric solutions.
+I specialize in building clean-core, side-by-side extensible systems
+using SAP BTP, S/4HANA, and modern UI paradigms.
 
-## 💼 What I Do (a.k.a My Superpowers):
-- 🧠 **SAP Fiori & SAPUI5 Specialist** — because I believe great UI makes business processes less boring 😄  
-- 🌐 Deep knowledge of **OData, Web Dynpro (ABAP/Java), and Enterprise Portals**  
-- ☁️ Pro in **S/4HANA (on-premise & BTP)** with modern integration practices  
-- 🔁 Devoted to **Agile**, addicted to **Scrum**, and fluent in **DevOps**
+------------------------------------------------------------------------
 
-## 🚀 Roles I’ve Played:
-- Solution Architect  
-- Team Lead  
-- Code whisperer  
-- The person who fixes things no one else wants to touch 😉
+## Focus Areas
 
-## ❤️ What Drives Me:
-I live for the moment when a client smiles because something *just works* — clean code, intuitive UX, happy people. That’s the magic I strive for.
+-   SAP BTP & CAP-based Side-by-Side Extensions\
+-   S/4HANA (On-Prem & Cloud) Architecture\
+-   RAP & Fiori Elements (Metadata-Driven UX)\
+-   Launchpad Governance & Security Segregation\
+-   OData & API-First Integration Strategies\
+-   Hybrid Landscape Design (On-Prem ↔ Cloud)\
+-   CI/CD & DevOps for Enterprise SAP
 
-> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler  
-> ...And I try to do that before my coffee kicks in ☕.
+------------------------------------------------------------------------
 
----
+## Architectural Philosophy
 
-### 📫 Let’s Connect
-Feel free to explore, fork, star, or just say hi. I'm always open to new ideas, collaborations, and a good tech meme.
+-   Keep the core clean\
+-   Push innovation to the cloud\
+-   Separate build from exposure\
+-   Design for upgrade safety\
+-   Make UX intentional, not incidental
 
-“Code with purpose, deliver with passion.”
+I focus on maintainability, extensibility, and governance --- not just
+delivery.
 
-<!--
-**jakes2255/jakes2255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------------------------------------------------------------------
 
+## Roles Delivered
 
-Here are some ideas to get you started:
+-   Solution Architect\
+-   SAP Technical Lead\
+-   BTP Extension Architect\
+-   Enterprise UI Strategy Lead\
+-   Cross-functional Delivery Owner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I operate at the intersection of architecture, development, and platform
+governance.
 
+------------------------------------------------------------------------
+
+## What You'll Find Here
+
+This GitHub profile reflects:
+
+-   CAP-based service design\
+-   Metadata-driven Fiori Elements modeling\
+-   UI annotation strategies\
+-   Clean-code patterns in enterprise SAP\
+-   Hybrid architecture experiments
+
+Each repository represents a deliberate architectural pattern --- not
+just sample code.
+
+------------------------------------------------------------------------
+
+## Current Direction
+
+I am actively deepening expertise in:
+
+-   Advanced RAP patterns\
+-   Event-driven extensibility\
+-   Enterprise-grade BTP transport strategy\
+-   Secure multi-landscape deployment models
+
+------------------------------------------------------------------------
+
+## Collaboration
+
+Open to architectural discussions, SAP BTP collaborations, and
+modernization initiatives.
+
+------------------------------------------------------------------------
+
+> Build systems that survive upgrades, scale with change, and reduce
+> operational friction.
