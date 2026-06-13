@@ -1,84 +1,92 @@
-# Enterprise SAP Architect \| Clean-Core Advocate \| Cloud-First Thinker
+# SAP Solution Architect | SAP BTP | S/4HANA | Enterprise Applications
 
-With 20+ years of experience across India and the UK, I design and lead
-enterprise-grade SAP solutions that align business strategy with
-scalable, cloud-ready architectures.
+Experienced SAP professional with 20+ years of delivering and modernizing enterprise applications across manufacturing, supply chain, and business operations landscapes in India and the UK.
 
-I specialize in building clean-core, side-by-side extensible systems
-using SAP BTP, S/4HANA, and modern UI paradigms.
+My focus is on designing scalable, upgrade-safe SAP solutions that balance business requirements, user experience, architectural governance, and long-term maintainability. I specialize in SAP S/4HANA, SAP BTP, SAP Fiori, integration architectures, and modern extensibility patterns.
 
-------------------------------------------------------------------------
+---
 
-## Focus Areas
+## Core Expertise
 
--   SAP BTP & CAP-based Side-by-Side Extensions
--   S/4HANA (On-Prem & Cloud) Architecture
--   RAP & Fiori Elements (Metadata-Driven UX)
--   Launchpad Governance & Security Segregation
--   OData & API-First Integration Strategies
--   Hybrid Landscape Design (On-Prem ↔ Cloud)
--   CI/CD & DevOps for Enterprise SAP
+* SAP S/4HANA Architecture and Extensibility
+* SAP BTP Application Development and Integration
+* SAP Fiori, SAPUI5, and User Experience Strategy
+* RAP, CAP, and API-Driven Architectures
+* SAP Gateway, OData, and Service Design
+* Manufacturing and Supply Chain Solutions
+* Enterprise Integration and Hybrid Landscapes
+* Solution Governance and Technical Leadership
+* Upgrade and Transformation Programs
+* DevOps and Modern SAP Development Practices
 
-------------------------------------------------------------------------
+---
 
-## Architectural Philosophy
+## What I Deliver
 
--   Keep the core clean
--   Push innovation to the cloud
--   Separate build from exposure
--   Design for upgrade safety
--   Make UX intentional, not incidental
+* Enterprise-scale SAP solution architecture
+* Modernization of legacy SAP applications
+* Cloud and hybrid architecture strategies
+* Clean-core aligned extension approaches
+* Scalable and maintainable SAP application design
+* Technical leadership across cross-functional teams
+* Upgrade remediation and platform transformation initiatives
 
-I focus on maintainability, extensibility, and governance --- not just
-delivery.
+---
 
-------------------------------------------------------------------------
+## Architectural Principles
 
-## Roles Delivered
+* Design for business value and long-term sustainability
+* Prefer standard capabilities before customization
+* Build upgrade-safe and extensible solutions
+* Enable innovation through loosely coupled architectures
+* Treat user experience as a strategic capability
+* Balance governance with delivery agility
 
--   Solution Architect
--   SAP Technical Lead
--   BTP Extension Architect
--   Enterprise UI Strategy Lead
--   Cross-functional Delivery Owner
+---
 
-I operate at the intersection of architecture, development, and platform
-governance.
+## Roles and Responsibilities
 
-------------------------------------------------------------------------
+Throughout my career I have worked across:
 
-## What You'll Find Here
+* Solution Architecture
+* SAP Technical Leadership
+* Enterprise Application Development
+* SAP Fiori and UX Strategy
+* SAP BTP Architecture
+* Integration Design and Governance
+* Cross-Functional Program Delivery
 
-This GitHub profile reflects:
+I enjoy operating at the intersection of business requirements, technology strategy, and hands-on engineering.
 
--   CAP-based service design
--   Metadata-driven Fiori Elements modeling
--   UI annotation strategies
--   Clean-code patterns in enterprise SAP
--   Hybrid architecture experiments
+---
 
-Each repository represents a deliberate architectural pattern --- not
-just sample code.
+## Current Areas of Interest
 
-------------------------------------------------------------------------
+* SAP BTP Application Development
+* CAP and RAP Programming Models
+* Event-Driven Architectures
+* AI-Assisted Enterprise Applications
+* SAP Build and Low-Code Extensions
+* Clean-Core and Extensibility Strategies
+* Cloud-Native Development Practices
 
-## Current Direction
+---
 
-I am actively deepening expertise in:
+## Repository Themes
 
--   Advanced RAP patterns
--   Event-driven extensibility
--   Enterprise-grade BTP transport strategy
--   Secure multi-landscape deployment models
+This profile contains examples, experiments, and learning projects related to:
 
-------------------------------------------------------------------------
+* SAP BTP Development
+* SAP Fiori and SAPUI5
+* CAP and Service Design
+* Enterprise Integration Patterns
+* SAP Architecture Concepts
+* Modern SAP Development Practices
+
+---
 
 ## Collaboration
 
-Open to architectural discussions, SAP BTP collaborations, and
-modernization initiatives.
+Interested in discussions around SAP architecture, modernization programs, SAP BTP adoption, enterprise application strategy, and solution design.
 
-------------------------------------------------------------------------
-
-> Build systems that survive upgrades, scale with change, and reduce
-> operational friction.
+> Build solutions that remain maintainable, extensible, and relevant long after the initial implementation.
